@@ -12,7 +12,7 @@ You can reach me via email or my twitter @deadvoid. 💬 Talk to me about whatev
 Feel free to look around! For example, check these out:     
 - [quick first hundred rows of CSV file without pandas \(notebook\)](https://github.com/oleng/explorations/blob/master/CSV%20data%20exploration%20without%20pandas%20with%20generator.ipynb) in [oleng/explorations](https://github.com/oleng/explorations)
 - [oleng/Dockerfiles: source for Dockerhub builds](https://github.com/oleng/dockerfiles)     
-- [oleng/solved: repository on coding challenges](https://github.com/oleng/solved)
+- [oleng/solved: repository for solved coding challenges](https://github.com/oleng/solved)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
