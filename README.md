@@ -23,7 +23,7 @@ _Props for other interesting projects I really like ⭐️ that might be relevan
 | Repo | Note |
 |-----|:-----|
 | [Hashicorp Vault](https://github.com/hashicorp/vault) |           I'm starting to integrate this into my dev after (too) long period of hesitation! |
-| [Dagster](https://github.com/dagster-io/dagster) |                I'm getting into this at the moment (Expect a setup repo later!) since I'm not too keen on deep diving in Airflow yet, at least until their next major release. |
+| [Dagster](https://github.com/dagster-io/dagster) |                I'm getting into this at the moment (Expect a Docker setup repo later!) since I'm not too keen on deep diving in Airflow yet, at least until their next major release. |
 | [Airflow boilerplate](https://github.com/ninja-van/airflow-boilerplate) | Pretty good template to start setting up (current version of) Airflow! |
 | [FastAPI docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) | I'll show a project using this soon, promise 😅 |
 | [DuckDB](https://github.com/cwida/duckdb) |                       Sqlite for OLAP, `pip install duckdb` & use pandas API-like syntaxes. So cool! |
