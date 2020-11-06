@@ -1,9 +1,8 @@
 ### 👋  Hey, there, welcome! 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 I suppose you've found this from my CV or LinkedIn, or maybe you're just lost? Thank you for checking this out anyways!    
-Little summary of me, I ❤️ Python and Docker, and currently pursuing data engineering career.
+Little summary of me, I :heart: Python and Docker, and currently pursuing data engineering career.
 
 You can read a bit more about me [here on my github page](https://oleng.github.io/about), 
 and although there's currently not much in it, I also have some entries in the [blog](https://oleng.github.io/).    
