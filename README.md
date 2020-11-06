@@ -5,7 +5,8 @@ I suppose you've found this from my CV or LinkedIn, or maybe you're just lost? T
 Little summary of me, I :heart: Python and Docker, and currently pursuing data engineering career.
 
 You can read a bit more about me [here on my github page](https://oleng.github.io/about), 
-and although there's currently not much in it, I also have some entries in the [blog](https://oleng.github.io/).    
+and although there's currently not much in it, I also have some entries in the [blog](https://oleng.github.io/), 
+made with hugo & continuously delivered with Github Action.    
 You can reach me via email or my twitter @deadvoid. 💬 Talk to me about whatever!
 
 Feel free to look around! For example, check these out:    
