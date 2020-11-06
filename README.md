@@ -1,7 +1,7 @@
 ### 👋  Hey, there, welcome! 
 
 
-I suppose you've found this from my CV or LinkedIn, or maybe you're just lost? Thank you for checking this out anyways!    
+I suppose you've found this profile from my CV or LinkedIn, or maybe you're just lost? Thank you for checking it out anyways!    
 Little summary of me, I :heart: Python and Docker, and currently pursuing data engineering career.
 
 You can read a bit more about me [here on my github page](https://oleng.github.io/about), 
