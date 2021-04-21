@@ -25,4 +25,3 @@ Feel free to look around! For example, check these out:
   [automate notebook creation on solved katas with Python, leveraging Codewar's API](https://github.com/oleng/solved/blob/master/codewar_api_to_notebook.py) 
 
 
-&nbsp;&nbsp;&nbsp
